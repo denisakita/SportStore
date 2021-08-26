@@ -1,0 +1,14 @@
+X-Sender: sportsstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: sportsstore@example.com
+To: orders@example.com
+Date: 10 Jul 2021 12:36:13 +0200
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems:=0D=0A1 x Life=
+jackets (subtotal: $48.95Total order value: $48.95---=0D=0AShip t=
+o:=0D=0AAdmin=0D=0Atirana=0D=0Atirana=0D=0Atirana=0D=0Atirana=0D=0A=
+tirana=0D=0Aalbania=0D=0A1001=0D=0A---=0D=0AGift wrap: No
